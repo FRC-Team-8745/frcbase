@@ -9,7 +9,7 @@ package frc.robot;
     import edu.wpi.first.wpilibj.Compressor;
     import edu.wpi.first.wpilibj.Solenoid;
 
-public class Sweeper {
+public class starter {
     //set your pistons to default positions
     public static boolean fourBarS = false;
     public static boolean compressorT = false;
